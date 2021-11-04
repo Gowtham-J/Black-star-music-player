@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Black-star-music-player/static/css/main.a7d319ce.chunk.css",
+    "main.js": "/Black-star-music-player/static/js/main.d31f2e16.chunk.js",
+    "main.js.map": "/Black-star-music-player/static/js/main.d31f2e16.chunk.js.map",
+    "runtime-main.js": "/Black-star-music-player/static/js/runtime-main.e185b596.js",
+    "runtime-main.js.map": "/Black-star-music-player/static/js/runtime-main.e185b596.js.map",
+    "static/js/2.f1330e92.chunk.js": "/Black-star-music-player/static/js/2.f1330e92.chunk.js",
+    "static/js/2.f1330e92.chunk.js.map": "/Black-star-music-player/static/js/2.f1330e92.chunk.js.map",
+    "static/js/3.d3b3d867.chunk.js": "/Black-star-music-player/static/js/3.d3b3d867.chunk.js",
+    "static/js/3.d3b3d867.chunk.js.map": "/Black-star-music-player/static/js/3.d3b3d867.chunk.js.map",
+    "index.html": "/Black-star-music-player/index.html",
+    "static/css/main.a7d319ce.chunk.css.map": "/Black-star-music-player/static/css/main.a7d319ce.chunk.css.map",
+    "static/js/2.f1330e92.chunk.js.LICENSE.txt": "/Black-star-music-player/static/js/2.f1330e92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e185b596.js",
+    "static/js/2.f1330e92.chunk.js",
+    "static/css/main.a7d319ce.chunk.css",
+    "static/js/main.d31f2e16.chunk.js"
+  ]
+}
